@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		2A0AE4C05637E6BDCE37A658 /* Pods_kushinaviTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 71E29D8C7484600551CDAE62 /* Pods_kushinaviTests.framework */; };
 		960E4B7A1EAAE1A5008E4DD8 /* Others in Resources */ = {isa = PBXBuildFile; fileRef = 960E4B791EAAE1A5008E4DD8 /* Others */; };
-		960E4B7C1EAAE1A5008E4DD8 /* Helpers in Resources */ = {isa = PBXBuildFile; fileRef = 960E4B7B1EAAE1A5008E4DD8 /* Helpers */; };
 		960E4B7E1EAAE1A5008E4DD8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 960E4B7D1EAAE1A5008E4DD8 /* Assets.xcassets */; };
 		960E4B811EAAE1A5008E4DD8 /* Router.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960E4B801EAAE1A5008E4DD8 /* Router.swift */; };
 		960E4B831EAAE1A5008E4DD8 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960E4B821EAAE1A5008E4DD8 /* NetworkManager.swift */; };
@@ -207,7 +206,6 @@
 			isa = PBXGroup;
 			children = (
 				960E4B8A1EAAE1A5008E4DD8 /* Controllers */,
-				960E4B7B1EAAE1A5008E4DD8 /* Helpers */,
 				960E4B8F1EAAE1A5008E4DD8 /* Models */,
 				960E4B791EAAE1A5008E4DD8 /* Others */,
 				960E4B7F1EAAE1A5008E4DD8 /* Utils */,
@@ -227,13 +225,6 @@
 				960E4BDD1EAAE6FE008E4DD8 /* area.json */,
 			);
 			path = Others;
-			sourceTree = "<group>";
-		};
-		960E4B7B1EAAE1A5008E4DD8 /* Helpers */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Helpers;
 			sourceTree = "<group>";
 		};
 		960E4B7F1EAAE1A5008E4DD8 /* Utils */ = {
@@ -680,7 +671,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				960E4B7C1EAAE1A5008E4DD8 /* Helpers in Resources */,
 				960E4B8C1EAAE1A5008E4DD8 /* Startup in Resources */,
 				960E4B8E1EAAE1A5008E4DD8 /* Views in Resources */,
 				960E4BDE1EAAE6FE008E4DD8 /* area.json in Resources */,
