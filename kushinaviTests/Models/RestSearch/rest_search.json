@@ -1,0 +1,824 @@
+{
+  "@attributes": {
+    "api_version": "20150630"
+  },
+  "total_hit_count": "3791",
+  "hit_per_page": "10",
+  "page_offset": "1",
+  "rest": [
+    {
+      "@attributes": {
+        "order": "0"
+      },
+      "id": "e113134",
+      "update_date": "2017-04-18 01:25:52",
+      "name": "有楽町 個室居酒屋 赤鶏御殿 有楽町駅前店",
+      "name_kana": "ユウラクチョウコシツイザカヤセキトリゴテン ユウラクチョウエキマエテン",
+      "latitude": "35.669422",
+      "longitude": "139.763325",
+      "category": "全席完全個室和風居酒屋",
+      "url": "https://r.gnavi.co.jp/e113134/?ak=kjQrkW2USAA0OcKFt0tQHN4Bw%2BTVastn33ZhC8yWcbY%3D",
+      "url_mobile": "http://mobile.gnavi.co.jp/shop/e113134/?ak=kjQrkW2USAA0OcKFt0tQHN4Bw%2BTVastn33ZhC8yWcbY%3D",
+      "coupon_url": {
+        "pc": "https://r.gnavi.co.jp/e113134/coupon/",
+        "mobile": "http://mobile.gnavi.co.jp/shop/e113134/coupon"
+      },
+      "image_url": {
+        "shop_image1": "https://uds.gnst.jp/rest/img/p3ezkecu0000/t_00fe.jpg",
+        "shop_image2": "https://uds.gnst.jp/rest/img/p3ezkecu0000/t_00ep.jpg",
+        "qrcode": "https://c-r.gnst.jp/tool/qr/?id=e113134&q=6"
+      },
+      "address": "〒100-0006 東京都千代田区有楽町1-2-11 オーキッドスクエア3F",
+      "tel": "03-3503-0510",
+      "tel_sub": {},
+      "fax": {},
+      "opentime": "月～日 15:00～24:00(L.O.23:30)(日曜日はご予約状況によりお休みの場合がありますので予めご了承ください。  時間外営業（昼宴会など）も、ご予算・ご人数様にあわせてお気軽にご相談ください。)",
+      "holiday": "不定休日あり",
+      "access": {
+        "line": "地下鉄日比谷線",
+        "station": "日比谷駅",
+        "station_exit": {},
+        "walk": "2",
+        "note": {}
+      },
+      "parking_lots": {},
+      "pr": {
+        "pr_short": "有楽町日比谷懇親会 春の宴会 全席個室 団体大人数.100名以上 貸切 3時間飲み放題付プラン(9品)\\3500～ お勧め【幕内】鶏塩ちゃんこ鍋含む11品\\4000",
+        "pr_long": "当店の個室は、ゆったりと広々使えてくつろげるスペースです。<BR>何名様でも上質空間をご用意させていただきます。<BR>2017年歓迎会宴会場所選びの幹事様が輝ける瞬間をお手伝い致します。<BR>自慢の鶏料理と若乃花仕込みの鍋コースは毎日仕込みで売り切れ必至です。<BR>詳しくはメニューページをご覧下さい<BR>新社会人飲み会、打ち上げ、送別会・歓迎会・親睦会・大事な記念日、接待等は赤鶏御殿 有楽町店で<BR><BR>営業時間外宴会受付中です！"
+      },
+      "code": {
+        "areacode": "AREA110",
+        "areaname": "関東",
+        "prefcode": "PREF13",
+        "prefname": "東京都",
+        "areacode_s": "AREAS2106",
+        "areaname_s": "有楽町・日比谷",
+        "category_code_l": [
+          "RSFST09000",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ],
+        "category_name_l": [
+          "居酒屋",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ],
+        "category_code_s": [
+          "RSFST09004",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ],
+        "category_name_s": [
+          "居酒屋",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ]
+      },
+      "budget": "3000",
+      "party": "3000",
+      "lunch": {},
+      "credit_card": "VISA,MasterCard,UC,DC,アメリカン・エキスプレス,JCB,MUFG",
+      "e_money": {},
+      "flags": {
+        "mobile_site": "1",
+        "mobile_coupon": "1",
+        "pc_coupon": "1"
+      }
+    },
+    {
+      "@attributes": {
+        "order": "1"
+      },
+      "id": "ge2b706",
+      "update_date": "2017-04-20 00:36:16",
+      "name": "隠れ家個室居酒屋 鳥の利久 有楽町店",
+      "name_kana": "カクレガコシツイザカヤトリノリキュウ ユウラクチョウテン",
+      "latitude": "35.669781",
+      "longitude": "139.763689",
+      "category": "個室居酒屋×地鶏料理",
+      "url": "https://r.gnavi.co.jp/js9ekuht0000/?ak=kjQrkW2USAA0OcKFt0tQHN4Bw%2BTVastn33ZhC8yWcbY%3D",
+      "url_mobile": "http://mobile.gnavi.co.jp/shop/ge2b706/?ak=kjQrkW2USAA0OcKFt0tQHN4Bw%2BTVastn33ZhC8yWcbY%3D",
+      "coupon_url": {
+        "pc": "https://r.gnavi.co.jp/js9ekuht0000/coupon/",
+        "mobile": "http://mobile.gnavi.co.jp/shop/ge2b706/coupon"
+      },
+      "image_url": {
+        "shop_image1": "https://uds.gnst.jp/rest/img/js9ekuht0000/t_0n5c.jpg",
+        "shop_image2": {},
+        "qrcode": "https://c-r.gnst.jp/tool/qr/?id=ge2b706&q=6"
+      },
+      "address": "〒100-0006 東京都千代田区有楽町1-2-7 金田ビル5F",
+      "tel": "050-3476-1317",
+      "tel_sub": "03-6550-9838  (受付：9時～24時)",
+      "fax": {},
+      "opentime": "月～日 ランチ・ディナー：11:00～23:30(L.O.22:30、ドリンクL.O.23:00)",
+      "holiday": "無",
+      "access": {
+        "line": "ＪＲ",
+        "station": "有楽町駅",
+        "station_exit": "日比谷口",
+        "walk": "2",
+        "note": {}
+      },
+      "parking_lots": {},
+      "pr": {
+        "pr_short": "【NEW OPEN！有楽町2分】日比谷口至近×個室居酒屋 【宴会コース】最大3時間飲み放題付 2980円～ 【全席完全個室】2名様～70名様まで個室完備♪ 《厳選された地鶏料理》",
+        "pr_long": "回回 有楽町駅近にNEW OPEN《全席完全個室居酒屋》～地鶏料理～ 回回<BR>― 隠れ家個室居酒屋 鳥の利久 有楽町店 ―<BR>【全席完全個室】2名～最大70名様迄！！<BR>落ち着いた雰囲気の扉で仕切られたプライベート個室空間<BR>…接待や歓送迎会、デートや誕生日などに◎<BR><BR>～ 全国各地のブランド地鶏・築地直送の新鮮な海鮮・魚介類 ～<BR>知識と経験豊富な料理長が目利きした厳選食材を使用した和食料理♪<BR>有楽町にいながら、全国の料理人たちのこだわりを体感できます！<BR>― 宴会コース最大3時間飲み放題付 ―<BR>▽ 全 8品『比内- Hinai-コース』3,480円<BR>▽ 全 8品『会津- Aizu -コース』3,980円<BR>▽ 全10品『彩祭-saisai-コース』4,980円<BR>▽ 全11品『上州- Josyu-コース』5,980円 （各コース税込）<BR>【有楽町での接待や歓送迎会、飲み会など各種宴会に最適】"
+      },
+      "code": {
+        "areacode": "AREA110",
+        "areaname": "関東",
+        "prefcode": "PREF13",
+        "prefname": "東京都",
+        "areacode_s": "AREAS2106",
+        "areaname_s": "有楽町・日比谷",
+        "category_code_l": [
+          "RSFST09000",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ],
+        "category_name_l": [
+          "居酒屋",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ],
+        "category_code_s": [
+          "RSFST09004",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ],
+        "category_name_s": [
+          "居酒屋",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ]
+      },
+      "budget": "3000",
+      "party": "3500",
+      "lunch": "3000",
+      "credit_card": "VISA,MasterCard,アメリカン・エキスプレス,JCB,銀聯",
+      "e_money": {},
+      "flags": {
+        "mobile_site": "1",
+        "mobile_coupon": "1",
+        "pc_coupon": "1"
+      }
+    },
+    {
+      "@attributes": {
+        "order": "2"
+      },
+      "id": "g064201",
+      "update_date": "2017-04-18 04:12:12",
+      "name": "アンジェロ ",
+      "name_kana": "アンジェロ",
+      "latitude": "35.667639",
+      "longitude": "139.763475",
+      "category": "イタリアン・バール",
+      "url": "http://r.gnavi.co.jp/g064201/?ak=kjQrkW2USAA0OcKFt0tQHN4Bw%2BTVastn33ZhC8yWcbY%3D",
+      "url_mobile": "http://mobile.gnavi.co.jp/shop/g064201/?ak=kjQrkW2USAA0OcKFt0tQHN4Bw%2BTVastn33ZhC8yWcbY%3D",
+      "coupon_url": {
+        "pc": "http://r.gnavi.co.jp/g064201/coupon/",
+        "mobile": "http://mobile.gnavi.co.jp/shop/g064201/coupon"
+      },
+      "image_url": {
+        "shop_image1": "https://uds.gnst.jp/rest/img/9km8b21e0000/t_0077.jpg",
+        "shop_image2": {},
+        "qrcode": "https://c-r.gnst.jp/tool/qr/?id=g064201&q=6"
+      },
+      "address": "〒104-0061 東京都中央区銀座7-2-20 パシフィックギンザビルB1",
+      "tel": "050-3477-8936",
+      "tel_sub": "03-5568-5551",
+      "fax": "03-5568-7011",
+      "opentime": " ディナー：17:00～23:30(L.O.22:30、ドリンクL.O.23:00)<BR>金・祝前日 ディナー：17:00～翌5:00",
+      "holiday": "無<BR>年末年始（2017年12月31日～2018年1月3日）",
+      "access": {
+        "line": "地下鉄",
+        "station": "銀座駅",
+        "station_exit": "C1・C2・C3出口",
+        "walk": "5",
+        "note": {}
+      },
+      "parking_lots": {},
+      "pr": {
+        "pr_short": "雰囲気抜群 歓迎会・送別会・接待・記念日に最適★ 3時間飲み放題 幹事様も安心・納得プラン￥4,000 記念日無料特典 完全個室・最大20名様 フロア貸切・最大40名様",
+        "pr_long": "『飲み放題メニューに注目！！』<BR>以下のラインナップがすべて飲み放題メニューでご用意♪<BR>・フローズン・ストロベリーダイキリ<BR>・氷点下エクストラコールド<BR>・キリン一番搾りフローズン生<BR>・樽詰スパークリング<BR>・フリージングハイボール<BR><BR>店内のご案内<BR>・【究極・完全個室】 【6～7名様・8～12名様・10～15名様・12～18名様・15～20名様】<BR>・フロア貸切 【23～30名様・30～40名様】"
+      },
+      "code": {
+        "areacode": "AREA110",
+        "areaname": "関東",
+        "prefcode": "PREF13",
+        "prefname": "東京都",
+        "areacode_s": "AREAS2105",
+        "areaname_s": "銀座（東急プラザ・コリドー街方面）",
+        "category_code_l": [
+          "RSFST11000",
+          "RSFST21000"
+        ],
+        "category_name_l": [
+          "イタリアン・フレンチ",
+          "お酒"
+        ],
+        "category_code_s": [
+          "RSFST11002",
+          "RSFST21007"
+        ],
+        "category_name_s": [
+          "イタリアン(イタリア料理)",
+          "ワイン"
+        ]
+      },
+      "budget": "4320",
+      "party": "4320",
+      "lunch": {},
+      "credit_card": "VISA,MasterCard,UC,DC,UFJ,ダイナースクラブ,アメリカン・エキスプレス,JCB,NICOS,セゾン,MUFG",
+      "e_money": {},
+      "flags": {
+        "mobile_site": "1",
+        "mobile_coupon": "1",
+        "pc_coupon": "1"
+      }
+    },
+    {
+      "@attributes": {
+        "order": "3"
+      },
+      "id": "e849950",
+      "update_date": "2017-04-07 13:02:08",
+      "name": "個室 和ダイニング 長屋のじろちょう ～JIROCHO～ 有楽町店",
+      "name_kana": "コシツワダイニング ナガヤノジロチョウユウラクチョウテン",
+      "latitude": "35.669422",
+      "longitude": "139.763314",
+      "category": "宴会×居酒屋×個室",
+      "url": "https://r.gnavi.co.jp/e849950/?ak=kjQrkW2USAA0OcKFt0tQHN4Bw%2BTVastn33ZhC8yWcbY%3D",
+      "url_mobile": "http://mobile.gnavi.co.jp/shop/e849950/?ak=kjQrkW2USAA0OcKFt0tQHN4Bw%2BTVastn33ZhC8yWcbY%3D",
+      "coupon_url": {
+        "pc": "https://r.gnavi.co.jp/e849950/coupon/",
+        "mobile": "http://mobile.gnavi.co.jp/shop/e849950/coupon"
+      },
+      "image_url": {
+        "shop_image1": {},
+        "shop_image2": "https://uds.gnst.jp/rest/img/a0gh17zf0000/t_00aq.jpg",
+        "qrcode": "https://c-r.gnst.jp/tool/qr/?id=e849950&q=6"
+      },
+      "address": "〒100-0006 東京都千代田区有楽町1-2-11 Orchid Square B1",
+      "tel": "050-3463-7784",
+      "tel_sub": "080-8816-7223",
+      "fax": {},
+      "opentime": "月～日 16:00～23:30(L.O.22:30、ドリンクL.O.23:00)",
+      "holiday": "無",
+      "access": {
+        "line": "ＪＲ",
+        "station": "有楽町駅",
+        "station_exit": {},
+        "walk": "2",
+        "note": {}
+      },
+      "parking_lots": {},
+      "pr": {
+        "pr_short": "◆有楽町駅徒歩3分!!最大120名様◆完全個室完備◆ ◇３時間飲み放題付きコース2990円～♪食べ放題もOK◎ ◆有楽町での宴会、女子会、誕生日や記念日のお祝いに♪",
+        "pr_long": "★プライベート宴会に◎有楽町の隠れ家風個室★<BR>有楽町駅から徒歩3分の好アクセス♪<BR>2名様～団体様までご利用頂ける安らぎの完全個室席を完備◎<BR>団体様の貸切対応も承ります♪<BR><BR>★大人気の3時間飲み放題付宴会コース★<BR>・【土～木曜日(組数限定)】 3H飲み放題7品 限定 桜コース 2990円<BR>★宴会プラン★<BR>・2H飲み放題付7品『花コース』  4500円⇒3500円<BR>・2H飲み放題付8品『桜コース』  5000円⇒4000円<BR>・3H飲み放題付9品『百合コース』6000円⇒5000円<BR>★歓送迎会プラン★<BR>・組数限定!!2H飲み放題付8品 『宴コース』 4000円<BR>・2H飲み放題付9品 『じろちょう梅コース』 4500円<BR>・2H飲み放題付9品 『じろちょう竹コース』 5000円<BR>・2H飲み放題付10品『じろちょう松コース』 6000円"
+      },
+      "code": {
+        "areacode": "AREA110",
+        "areaname": "関東",
+        "prefcode": "PREF13",
+        "prefname": "東京都",
+        "areacode_s": "AREAS2106",
+        "areaname_s": "有楽町・日比谷",
+        "category_code_l": [
+          "RSFST09000",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ],
+        "category_name_l": [
+          "居酒屋",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ],
+        "category_code_s": [
+          "RSFST09004",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ],
+        "category_name_s": [
+          "居酒屋",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ]
+      },
+      "budget": "2770",
+      "party": "2770",
+      "lunch": {},
+      "credit_card": "VISA,MasterCard,UC,DC,UFJ,ダイナースクラブ,アメリカン・エキスプレス,JCB,NICOS,アプラス,セゾン,J-DEBIT,MUFG,銀聯",
+      "e_money": {},
+      "flags": {
+        "mobile_site": "1",
+        "mobile_coupon": "1",
+        "pc_coupon": "1"
+      }
+    },
+    {
+      "@attributes": {
+        "order": "4"
+      },
+      "id": "g064218",
+      "update_date": "2017-04-18 04:04:09",
+      "name": "NEO‐SNAPPER CARNAVAL ",
+      "name_kana": "ネオスナッパーカルナヴァル",
+      "latitude": "35.667864",
+      "longitude": "139.763436",
+      "category": "スパニッシュイタリアン",
+      "url": "https://r.gnavi.co.jp/g064218/?ak=kjQrkW2USAA0OcKFt0tQHN4Bw%2BTVastn33ZhC8yWcbY%3D",
+      "url_mobile": "http://mobile.gnavi.co.jp/shop/g064218/?ak=kjQrkW2USAA0OcKFt0tQHN4Bw%2BTVastn33ZhC8yWcbY%3D",
+      "coupon_url": {
+        "pc": "https://r.gnavi.co.jp/g064218/coupon/",
+        "mobile": "http://mobile.gnavi.co.jp/shop/g064218/coupon"
+      },
+      "image_url": {
+        "shop_image1": "https://uds.gnst.jp/rest/img/n7y6bfsc0000/t_01uf.jpg",
+        "shop_image2": "https://uds.gnst.jp/rest/img/n7y6bfsc0000/t_01ty.jpg",
+        "qrcode": "https://c-r.gnst.jp/tool/qr/?id=g064218&q=6"
+      },
+      "address": "〒104-0061 東京都中央区銀座7-2-20 パシフィック銀座ビル2F",
+      "tel": "050-3463-2607",
+      "tel_sub": "03-5568-7010",
+      "fax": "03-5568-7011",
+      "opentime": "月～木 17:00～23:30<BR>金・土・祝前日 17:00～翌5:00(  日・祝 貸切営業のみ)",
+      "holiday": "毎週日曜日 祝日<BR>※年末年始 12/31～1/3 ◆2018年は1/4（木）より営業予定   ★特別営業★ 2017年4月29日（土）祝日 7月16日（日） 9月17日（日） 10月08日（日）12月03日（日）",
+      "access": {
+        "line": "地下鉄",
+        "station": "銀座駅",
+        "station_exit": "C1・C2・C3出口",
+        "walk": "5",
+        "note": {}
+      },
+      "parking_lots": {},
+      "pr": {
+        "pr_short": "【銀座エリア・最高峰】コスパ抜群！！ 宴会・送別会・歓迎会・記念日に大好評♪♪ 3時間飲み放題 全8品 ￥4,000 【完全個室】6～12名様 【カーテン個室】2～16名様",
+        "pr_long": "◆GW限定プラン今年もやります！<BR>◆アラカルトメニュー充実♪席のみ予約歓迎♪ <BR>◆月曜・火曜日限定♪◆当店自慢の絶品4種のパエリアが選べるプラン始めました♪♪<BR> 最適な6つの完全個室【全室PC,iPad,HDMI等 設備も充実！！】<BR>【6〜10名様 完全個室×1】<BR>【6〜12名様 完全個室×4】<BR>【13〜23名様 完全個室×1】<BR>【カーテン個室 2名様～最大16名様】<BR>【他店圧倒の究極の飲み放題メニュー！】種類の豊富さに自信あり！！<BR>◆コロナ・ZIMA・スミノフアイスも飲み放題の究極飲み放題メニュー◆<BR>■氷点下エクストラコールド ■エクストラコールドBLACK<BR>■キリン一番搾りフローズン生 ■ドライプレミアム<BR>■樽詰スパークリング  ■フリージングハイボール<BR>■コロナ ■ZIMA ■スミノフアイス"
+      },
+      "code": {
+        "areacode": "AREA110",
+        "areaname": "関東",
+        "prefcode": "PREF13",
+        "prefname": "東京都",
+        "areacode_s": "AREAS2105",
+        "areaname_s": "銀座（東急プラザ・コリドー街方面）",
+        "category_code_l": [
+          "RSFST11000",
+          "RSFST12000"
+        ],
+        "category_name_l": [
+          "イタリアン・フレンチ",
+          "欧米・各国料理"
+        ],
+        "category_code_s": [
+          "RSFST11002",
+          "RSFST12001"
+        ],
+        "category_name_s": [
+          "イタリアン(イタリア料理)",
+          "スペイン料理"
+        ]
+      },
+      "budget": "4000",
+      "party": "4000",
+      "lunch": {},
+      "credit_card": "VISA,MasterCard,UC,DC,UFJ,ダイナースクラブ,アメリカン・エキスプレス,JCB,NICOS,セゾン,MUFG",
+      "e_money": {},
+      "flags": {
+        "mobile_site": "1",
+        "mobile_coupon": "1",
+        "pc_coupon": "1"
+      }
+    },
+    {
+      "@attributes": {
+        "order": "5"
+      },
+      "id": "g064204",
+      "update_date": "2017-04-18 01:29:21",
+      "name": "銀座 GANESA",
+      "name_kana": "ギンザ ガネーシャ",
+      "latitude": "35.667864",
+      "longitude": "139.763436",
+      "category": "銀座 個室ダイニング",
+      "url": "https://r.gnavi.co.jp/g064204/?ak=kjQrkW2USAA0OcKFt0tQHN4Bw%2BTVastn33ZhC8yWcbY%3D",
+      "url_mobile": "http://mobile.gnavi.co.jp/shop/g064204/?ak=kjQrkW2USAA0OcKFt0tQHN4Bw%2BTVastn33ZhC8yWcbY%3D",
+      "coupon_url": {
+        "pc": "https://r.gnavi.co.jp/g064204/coupon/",
+        "mobile": "http://mobile.gnavi.co.jp/shop/g064204/coupon"
+      },
+      "image_url": {
+        "shop_image1": "https://uds.gnst.jp/rest/img/r944sp6g0000/t_006f.jpg",
+        "shop_image2": "https://uds.gnst.jp/rest/img/r944sp6g0000/t_006g.jpg",
+        "qrcode": "https://c-r.gnst.jp/tool/qr/?id=g064204&q=6"
+      },
+      "address": "〒104-0061 東京都中央区銀座7-2-20 パシフィック銀座ビル6F",
+      "tel": "050-3467-1294",
+      "tel_sub": "03-5568-4312",
+      "fax": "03-5568-7011",
+      "opentime": " 17:00～23:30(金曜、祝前日は朝5：00まで営業致します！)",
+      "holiday": "年中無休<BR>年末年始（2017年12月31日～2018年1月3日）",
+      "access": {
+        "line": "地下鉄",
+        "station": "銀座駅",
+        "station_exit": "C1・C2・C3出口",
+        "walk": "5",
+        "note": {}
+      },
+      "parking_lots": {},
+      "pr": {
+        "pr_short": "銀座で選ばれる飲み会の大本命 GANESA 様々なシーンに合わせた幻想空間で宴会 【宴】3H飲み放題 8品 \\4000～ 全コースにスパーク＆記念日特典付き 【完全個室】最大25名様までOK",
+        "pr_long": "店内は都会のオアシス♪幻想的なリゾート空間が大人の夜を演出☆<BR>【VIP 完全個室】 7室<BR>【カーテン個室】 80席<BR>【カップルシート】 8席<BR><BR>☆無休！金曜、祝前日は深夜も営業♪<BR><BR>【宴会＆合コンに♪】<BR>●シェフおすすめの逸品揃えた贅沢コース <BR>【 3H飲放題付き 全8品 4,000円 】<BR>…………………………………………………………<BR> ●厳選素材を使用した料理 ＋ 飲み放題の内容グレードアップに大満足 <BR>【 3H飲放題付き 全8品 4,500円 】<BR>…………………………………………………………<BR> ●欲張りに楽しむダブルメインの極上プラン <BR>【 2H飲放題付き6,000円 → 3H飲放題は6,500円 】"
+      },
+      "code": {
+        "areacode": "AREA110",
+        "areaname": "関東",
+        "prefcode": "PREF13",
+        "prefname": "東京都",
+        "areacode_s": "AREAS2105",
+        "areaname_s": "銀座（東急プラザ・コリドー街方面）",
+        "category_code_l": [
+          "RSFST15000",
+          "RSFST09000"
+        ],
+        "category_name_l": [
+          "アジア・エスニック料理",
+          "居酒屋"
+        ],
+        "category_code_s": [
+          "RSFST15013",
+          "RSFST09004"
+        ],
+        "category_name_s": [
+          "アジア・エスニック料理 その他",
+          "居酒屋"
+        ]
+      },
+      "budget": "4000",
+      "party": "4000",
+      "lunch": {},
+      "credit_card": "VISA,MasterCard,UC,DC,ダイナースクラブ,JCB,セゾン,MUFG",
+      "e_money": {},
+      "flags": {
+        "mobile_site": "1",
+        "mobile_coupon": "1",
+        "pc_coupon": "1"
+      }
+    },
+    {
+      "@attributes": {
+        "order": "6"
+      },
+      "id": "g064214",
+      "update_date": "2017-04-19 22:17:32",
+      "name": "天空飲茶酒家 ",
+      "name_kana": "テンクウヤムチャシュカ",
+      "latitude": "35.667864",
+      "longitude": "139.763436",
+      "category": "中華料理＆カーテン個室",
+      "url": "https://r.gnavi.co.jp/g064214/?ak=kjQrkW2USAA0OcKFt0tQHN4Bw%2BTVastn33ZhC8yWcbY%3D",
+      "url_mobile": "http://mobile.gnavi.co.jp/shop/g064214/?ak=kjQrkW2USAA0OcKFt0tQHN4Bw%2BTVastn33ZhC8yWcbY%3D",
+      "coupon_url": {
+        "pc": "https://r.gnavi.co.jp/g064214/coupon/",
+        "mobile": "http://mobile.gnavi.co.jp/shop/g064214/coupon"
+      },
+      "image_url": {
+        "shop_image1": "https://uds.gnst.jp/rest/img/jh5jyjg80000/t_0100.jpg",
+        "shop_image2": "https://uds.gnst.jp/rest/img/jh5jyjg80000/t_00gq.jpg",
+        "qrcode": "https://c-r.gnst.jp/tool/qr/?id=g064214&q=6"
+      },
+      "address": "〒104-0061 東京都中央区銀座7-2-20 パシフィック銀座ビル8F",
+      "tel": "050-3463-2605",
+      "tel_sub": "03-5568-6868",
+      "fax": "03-5568-7011",
+      "opentime": "月～土 17:00～23:30(L.O.22:30)",
+      "holiday": "毎週日曜日<BR>※年末年始【2017年12月31日～2018年1月3日】  ★特別営業★ 2017年4月29日（土）祝日  7月16日（日）9月17日（日）10月08日（日）12月03日（日）",
+      "access": {
+        "line": "地下鉄",
+        "station": "銀座駅",
+        "station_exit": "C1・C2・C3出口",
+        "walk": "5",
+        "note": {}
+      },
+      "parking_lots": {},
+      "pr": {
+        "pr_short": "◆【名物】鮮魚の姿蒸し・北京ダック他【全11品】飲放付コース4,000円 ◆夜景個室・完全個室【最大48名迄】 ◆宴会・女子会など様々なシーンで使い勝手が良いのも魅力♪",
+        "pr_long": "◆ＧＷ 4/29（祝・土）、5/3（祝・水）、5/4（祝・木）、5/5（祝・金）17：00～営業します！<BR>【コース当日予約ＯＫ！】※全コース100種飲み放題付<BR>◎天空コース  【季節の食材を堪能】全11品 4,000円<BR>◎プレミアム天空コース【宴会にオススメ！】全12品 4,500円<BR>◎贅沢コース  【厳選食材を使った】全14品 5,000円<BR>◎麻婆鍋コース  【ＡＬＬジーズンＯＫ】全 8品 4,500円<BR>●エクストラコールド●フローズン生●氷点下ハイボール<BR>●樽詰スパークリングワイン●中国茶20種も飲み放題♪ <BR>◆スペシャル特典<BR>☆主賓の方へ【メッセージ付デザートプレート】無料！<BR>◆完全個室45名様迄 ◆フロア貸切20名～65名様迄"
+      },
+      "code": {
+        "areacode": "AREA110",
+        "areaname": "関東",
+        "prefcode": "PREF13",
+        "prefname": "東京都",
+        "areacode_s": "AREAS2105",
+        "areaname_s": "銀座（東急プラザ・コリドー街方面）",
+        "category_code_l": [
+          "RSFST14000",
+          "RSFST14000"
+        ],
+        "category_name_l": [
+          "中華",
+          "中華"
+        ],
+        "category_code_s": [
+          "RSFST14007",
+          "RSFST14009"
+        ],
+        "category_name_s": [
+          "中華料理",
+          "飲茶・点心"
+        ]
+      },
+      "budget": "4000",
+      "party": "4000",
+      "lunch": {},
+      "credit_card": "VISA,MasterCard,UC,DC,UFJ,ダイナースクラブ,JCB,NICOS,セゾン,MUFG",
+      "e_money": {},
+      "flags": {
+        "mobile_site": "1",
+        "mobile_coupon": "1",
+        "pc_coupon": "1"
+      }
+    },
+    {
+      "@attributes": {
+        "order": "7"
+      },
+      "id": "a460206",
+      "update_date": "2017-04-18 11:02:42",
+      "name": "RACINES Meatball＆Localtable ",
+      "name_kana": "ラシーヌミートボールアンドローカルテーブル",
+      "latitude": "35.667450",
+      "longitude": "139.767233",
+      "category": "地方食材使用イタリアン",
+      "url": "https://r.gnavi.co.jp/4755799k0000/?ak=kjQrkW2USAA0OcKFt0tQHN4Bw%2BTVastn33ZhC8yWcbY%3D",
+      "url_mobile": "http://mobile.gnavi.co.jp/shop/a460206/?ak=kjQrkW2USAA0OcKFt0tQHN4Bw%2BTVastn33ZhC8yWcbY%3D",
+      "coupon_url": {
+        "pc": "https://r.gnavi.co.jp/4755799k0000/coupon/",
+        "mobile": "http://mobile.gnavi.co.jp/shop/a460206/coupon"
+      },
+      "image_url": {
+        "shop_image1": "https://uds.gnst.jp/rest/img/4755799k0000/t_0005.jpg",
+        "shop_image2": "https://uds.gnst.jp/rest/img/4755799k0000/t_0008.jpg",
+        "qrcode": "https://c-r.gnst.jp/tool/qr/?id=a460206&q=6"
+      },
+      "address": "〒104-0061 東京都中央区銀座5-7-10 EXITMELSA B1",
+      "tel": "050-3468-3091",
+      "tel_sub": "03-6264-5971",
+      "fax": {},
+      "opentime": " 11:00～23:00(L.O.22:00、ドリンクL.O.22:30)<BR>月～日 11:00～23:00(ランチタイム 11：00〜15：00 カフェタイム 11：00〜22：00 ディナータイム 17：00〜22：00)",
+      "holiday": "無",
+      "access": {
+        "line": "地下鉄銀座線",
+        "station": "銀座駅",
+        "station_exit": {},
+        "walk": "2",
+        "note": {}
+      },
+      "parking_lots": {},
+      "pr": {
+        "pr_short": "銀座で大人カジュアルにパーティを楽しむ「RACINES」 生産者の笑顔が見える素朴で自然で美味しい料理をご提供 農薬不使用・地方食材を使用した料理で素敵な時間を・・・",
+        "pr_long": "【想い】<BR>RACINESが提案するのは農薬不使用や地方の食材だけでなく生産者の“考え方”や“想い”<BR>全国の素晴らしい食材をとびきり美味しい一皿で楽しんで頂けるよう心掛けています<BR>【LET'S PARTY】<BR>気軽にご宴会を楽しむならこちら！2H飲み放題付 8品 4500円<BR>ゆったりラシーヌのメニューを楽しむならこちら！ 3500円<BR>【WEDDING】<BR>プロジェクター・ビンゴ・マイク・音響等設備充実<BR>最低保証額：550,000円～ お1人様：5,500円～<BR>【貸切】<BR>リーズナブルな半貸切 50名様～<BR>大人数でワイワイ！全貸切 100名様<BR>【シーン】<BR>宴会・パーティ・貸切・二次会・子会等様々なシーンでご利用OK<BR>銀座駅より徒歩１分！中央通り沿い「イグジットメルサ」B１階<BR>新名所 Ginza Sixのお買い物帰りにも☆"
+      },
+      "code": {
+        "areacode": "AREA110",
+        "areaname": "関東",
+        "prefcode": "PREF13",
+        "prefname": "東京都",
+        "areacode_s": "AREAS2104",
+        "areaname_s": "銀座（ソニービル・旧日航ホテル方面）",
+        "category_code_l": [
+          "RSFST09000",
+          "RSFST11000"
+        ],
+        "category_name_l": [
+          "居酒屋",
+          "イタリアン・フレンチ"
+        ],
+        "category_code_s": [
+          "RSFST09004",
+          "RSFST11002"
+        ],
+        "category_name_s": [
+          "居酒屋",
+          "イタリアン(イタリア料理)"
+        ]
+      },
+      "budget": "4000",
+      "party": "5000",
+      "lunch": "1000",
+      "credit_card": {},
+      "e_money": {},
+      "flags": {
+        "mobile_site": "1",
+        "mobile_coupon": "1",
+        "pc_coupon": "1"
+      }
+    },
+    {
+      "@attributes": {
+        "order": "8"
+      },
+      "id": "ge2b707",
+      "update_date": "2017-04-20 03:39:18",
+      "name": "完全個室居酒屋 和心旬菜 わび蔵 有楽町店",
+      "name_kana": "カンゼンコシツイザカヤワゴコロシュンサイワビゾウ ユウラクチョウテン",
+      "latitude": "35.669775",
+      "longitude": "139.763697",
+      "category": "全席完全個室×和食処",
+      "url": "https://r.gnavi.co.jp/8de4e8m40000/?ak=kjQrkW2USAA0OcKFt0tQHN4Bw%2BTVastn33ZhC8yWcbY%3D",
+      "url_mobile": "http://mobile.gnavi.co.jp/shop/ge2b707/?ak=kjQrkW2USAA0OcKFt0tQHN4Bw%2BTVastn33ZhC8yWcbY%3D",
+      "coupon_url": {
+        "pc": "https://r.gnavi.co.jp/8de4e8m40000/coupon/",
+        "mobile": "http://mobile.gnavi.co.jp/shop/ge2b707/coupon"
+      },
+      "image_url": {
+        "shop_image1": "https://uds.gnst.jp/rest/img/8de4e8m40000/t_0n5c.jpg",
+        "shop_image2": {},
+        "qrcode": "https://c-r.gnst.jp/tool/qr/?id=ge2b707&q=6"
+      },
+      "address": "〒100-0006 東京都千代田区有楽町1-2-7 金田ビル4F",
+      "tel": "050-3490-7037",
+      "tel_sub": "080-5977-4334  (受付：9時～24時)",
+      "fax": {},
+      "opentime": "月～日 ランチ・ディナー：11:00～23:30(L.O.22:30、ドリンクL.O.23:00)",
+      "holiday": "無",
+      "access": {
+        "line": "ＪＲ",
+        "station": "有楽町駅",
+        "station_exit": "日比谷口",
+        "walk": "2",
+        "note": {}
+      },
+      "parking_lots": {},
+      "pr": {
+        "pr_short": "【NEW OPEN！有楽町3分】日比谷口至近×個室居酒屋 【宴会コース】最大3時間飲み放題付 2980円～ 【全席完全個室】2名様～70名様まで個室完備♪ 【厳選された地鶏料理】",
+        "pr_long": "回回 有楽町駅近にNEW OPEN《全席完全個室居酒屋》～地鶏料理～ 回回<BR>― 和風個室居酒屋 わび蔵 有楽町店 ―<BR>【全席完全個室】2名～最大70名様迄！！<BR>落ち着いた雰囲気の扉で仕切られたプライベート個室空間<BR>…接待や歓送迎会、デートや誕生日などに◎<BR><BR>～ 全国各地のブランド地鶏・築地直送の新鮮な海鮮・魚介類 ～<BR>知識と経験豊富な料理長が目利きした厳選食材を使用した和食料理♪<BR>有楽町にいながら、全国の料理人たちのこだわりを体感できます！<BR>― 宴会コース最大3時間飲み放題付 ―<BR>▽ 全８品『祇園- Gion-コース』   3,480円<BR>▽ 全８品『蓮華- Renge -コース』   3,980円<BR>▽ 全11品『黒龍-Kokuryuu-コース』   4,980円（各コース税込）<BR>【有楽町での接待や歓送迎会、飲み会など各種宴会に最適】"
+      },
+      "code": {
+        "areacode": "AREA110",
+        "areaname": "関東",
+        "prefcode": "PREF13",
+        "prefname": "東京都",
+        "areacode_s": "AREAS2106",
+        "areaname_s": "有楽町・日比谷",
+        "category_code_l": [
+          "RSFST09000",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ],
+        "category_name_l": [
+          "居酒屋",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ],
+        "category_code_s": [
+          "RSFST09004",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ],
+        "category_name_s": [
+          "居酒屋",
+          {
+            "@attributes": {
+              "order": "1"
+            }
+          }
+        ]
+      },
+      "budget": "3000",
+      "party": "3500",
+      "lunch": "3000",
+      "credit_card": "VISA,MasterCard,アメリカン・エキスプレス,JCB,銀聯",
+      "e_money": {},
+      "flags": {
+        "mobile_site": "1",
+        "mobile_coupon": "1",
+        "pc_coupon": "1"
+      }
+    },
+    {
+      "@attributes": {
+        "order": "9"
+      },
+      "id": "g064200",
+      "update_date": "2017-04-18 21:00:16",
+      "name": "スプラッシュ ",
+      "name_kana": "スプラッシュ",
+      "latitude": "35.667864",
+      "longitude": "139.763436",
+      "category": "完全個室 本格中華料理",
+      "url": "https://r.gnavi.co.jp/g064200/?ak=kjQrkW2USAA0OcKFt0tQHN4Bw%2BTVastn33ZhC8yWcbY%3D",
+      "url_mobile": "http://mobile.gnavi.co.jp/shop/g064200/?ak=kjQrkW2USAA0OcKFt0tQHN4Bw%2BTVastn33ZhC8yWcbY%3D",
+      "coupon_url": {
+        "pc": "https://r.gnavi.co.jp/g064200/coupon/",
+        "mobile": "http://mobile.gnavi.co.jp/shop/g064200/coupon"
+      },
+      "image_url": {
+        "shop_image1": "https://uds.gnst.jp/rest/img/c4x6w86a0000/t_00il.jpg",
+        "shop_image2": "https://uds.gnst.jp/rest/img/c4x6w86a0000/t_008a.jpg",
+        "qrcode": "https://c-r.gnst.jp/tool/qr/?id=g064200&q=6"
+      },
+      "address": "〒104-0061 東京都中央区銀座7-2-20 パシフィック銀座ビル7F",
+      "tel": "050-3466-4362",
+      "tel_sub": "03-5568-5568",
+      "fax": "03-5568-7011",
+      "opentime": "月～金 17:00～翌5:00(L.O.4:00)<BR>土 17:00～23:30(L.O.22:30)",
+      "holiday": "毎週日曜日<BR>年末年始（2017年12月31日～2018年1月3日）<BR>※◆日曜・祝日の貸切パーティー営業応相談  ★特別営業★ 2017年4月29日（土）祝日 7月16日（日）9月17日（日）10月08日（日）12月03日（日）",
+      "access": {
+        "line": "地下鉄",
+        "station": "銀座駅",
+        "station_exit": "C1・C2・C3出口",
+        "walk": "5",
+        "note": {}
+      },
+      "parking_lots": {},
+      "pr": {
+        "pr_short": "◆3時間 飲み放題【全10品】コース4,000円 ◆二次会プラン飲み放題付3,000円 ◆全席完全個室（カラオケ付）2～120名迄 ◆宴会・歓送迎会・女子会・プライベート利用に！",
+        "pr_long": "◆ＧＷ 4/29（祝・土）、5/3（祝・水）、5/4（祝・木）、5/5（祝・金）17：00～営業します！<BR>◆月～金曜日は、翌朝5：00迄営業!<BR>【コース当日予約ＯＫ！】※全コース飲み放題付<BR>◎オススメ◎手作り点心【全15種】食べ放題＆料理3品 2.5時間 4,000円<BR>◎宴会◎本格中華料理【全10品】3時間 4,000円<BR>◎贅沢◎本格中華料理【全11品】3時間 5,000円※月・土曜は最大4.5時間 ◎極上◎厳選食材【豪華全10品】3時間 6,000円<BR>◆お祝い・歓送迎会に【お好きなメッセージ付デザートプレート】＆【大型モニターメッセージ無料】<BR>◆プロジェクターにPC・ipad接続ＯＫ！<BR>◆フロア貸切最大55名迄"
+      },
+      "code": {
+        "areacode": "AREA110",
+        "areaname": "関東",
+        "prefcode": "PREF13",
+        "prefname": "東京都",
+        "areacode_s": "AREAS2105",
+        "areaname_s": "銀座（東急プラザ・コリドー街方面）",
+        "category_code_l": [
+          "RSFST19000",
+          "RSFST14000"
+        ],
+        "category_name_l": [
+          "宴会・カラオケ・エンターテイメント",
+          "中華"
+        ],
+        "category_code_s": [
+          "RSFST19004",
+          "RSFST14007"
+        ],
+        "category_name_s": [
+          "カラオケボックス",
+          "中華料理"
+        ]
+      },
+      "budget": "4000",
+      "party": "4000",
+      "lunch": {},
+      "credit_card": "VISA,UC,DC,UFJ,ダイナースクラブ,アメリカン・エキスプレス,JCB,NICOS,セゾン,MUFG",
+      "e_money": {},
+      "flags": {
+        "mobile_site": "1",
+        "mobile_coupon": "1",
+        "pc_coupon": "1"
+      }
+    }
+  ]
+}
