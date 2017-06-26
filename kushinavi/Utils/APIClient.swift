@@ -8,25 +8,25 @@
 
 import Alamofire
 
-enum Result {
-    case success(Any)
+enum Result<T> {
+    case success(T)
     case failure(Error)
 }
 
 final class APIClient {
 
     func request(router : Router,
-                 completionHandler: @escaping (Result) -> () = {_ in}) {
+                 completionHandler: @escaping (Result<Any>) -> () = {_ in}) {
 
         Alamofire.request(router).responseJSON  { response in
             switch response.result {
             case .success(let value):
-                completionHandler(Result.success(value))
+                completionHandler(.success(value))
 
             case .failure:
 
                 if let error = response.result.error {
-                    completionHandler(Result.failure(error))
+                    completionHandler(.failure(error))
                 } else {
                     fatalError("エラーのインスタンスがnil")
                 }

@@ -14,4 +14,3 @@ enum Constants {
         static let areaJsonName = "area"
     }
 }
-
